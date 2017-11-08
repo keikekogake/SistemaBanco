@@ -1,0 +1,14 @@
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Terminal.deps.json
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Terminal.runtimeconfig.json
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Terminal.runtimeconfig.dev.json
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Terminal.dll
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Terminal.pdb
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Dados.dll
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Dados.pdb
+/home/keike/Documents/code_exp/POO/Banco/Terminal/obj/Debug/netcoreapp2.0/Terminal.csproj.CoreCompileInputs.cache
+/home/keike/Documents/code_exp/POO/Banco/Terminal/obj/Debug/netcoreapp2.0/Terminal.AssemblyInfoInputs.cache
+/home/keike/Documents/code_exp/POO/Banco/Terminal/obj/Debug/netcoreapp2.0/Terminal.AssemblyInfo.cs
+/home/keike/Documents/code_exp/POO/Banco/Terminal/obj/Debug/netcoreapp2.0/Terminal.dll
+/home/keike/Documents/code_exp/POO/Banco/Terminal/obj/Debug/netcoreapp2.0/Terminal.pdb
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Util.dll
+/home/keike/Documents/code_exp/POO/Banco/Terminal/bin/Debug/netcoreapp2.0/Util.pdb

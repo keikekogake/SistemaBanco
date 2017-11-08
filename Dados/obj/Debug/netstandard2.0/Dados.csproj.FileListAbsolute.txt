@@ -1,0 +1,8 @@
+/home/keike/Documents/code_exp/POO/Banco/Dados/bin/Debug/netstandard2.0/Dados.deps.json
+/home/keike/Documents/code_exp/POO/Banco/Dados/bin/Debug/netstandard2.0/Dados.dll
+/home/keike/Documents/code_exp/POO/Banco/Dados/bin/Debug/netstandard2.0/Dados.pdb
+/home/keike/Documents/code_exp/POO/Banco/Dados/obj/Debug/netstandard2.0/Dados.csproj.CoreCompileInputs.cache
+/home/keike/Documents/code_exp/POO/Banco/Dados/obj/Debug/netstandard2.0/Dados.AssemblyInfoInputs.cache
+/home/keike/Documents/code_exp/POO/Banco/Dados/obj/Debug/netstandard2.0/Dados.AssemblyInfo.cs
+/home/keike/Documents/code_exp/POO/Banco/Dados/obj/Debug/netstandard2.0/Dados.dll
+/home/keike/Documents/code_exp/POO/Banco/Dados/obj/Debug/netstandard2.0/Dados.pdb

@@ -1,0 +1,8 @@
+/home/keike/Documents/code_exp/POO/Banco/Util/obj/Debug/netstandard2.0/Util.csproj.CoreCompileInputs.cache
+/home/keike/Documents/code_exp/POO/Banco/Util/obj/Debug/netstandard2.0/Util.AssemblyInfoInputs.cache
+/home/keike/Documents/code_exp/POO/Banco/Util/obj/Debug/netstandard2.0/Util.AssemblyInfo.cs
+/home/keike/Documents/code_exp/POO/Banco/Util/bin/Debug/netstandard2.0/Util.deps.json
+/home/keike/Documents/code_exp/POO/Banco/Util/bin/Debug/netstandard2.0/Util.dll
+/home/keike/Documents/code_exp/POO/Banco/Util/bin/Debug/netstandard2.0/Util.pdb
+/home/keike/Documents/code_exp/POO/Banco/Util/obj/Debug/netstandard2.0/Util.dll
+/home/keike/Documents/code_exp/POO/Banco/Util/obj/Debug/netstandard2.0/Util.pdb
